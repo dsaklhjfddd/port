@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+p{
+   font-size:40px;
+   color:gold; 
+   border:solid  red 30px;
+   border-radius: 20px;
+   background-color:red;
+}
